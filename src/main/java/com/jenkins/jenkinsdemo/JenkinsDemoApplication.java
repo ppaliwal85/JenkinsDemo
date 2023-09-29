@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.slf4j.Logger;
 
 import javax.annotation.PostConstruct;
+// Adding comment for second commit 
 
 @SpringBootApplication
 public class JenkinsDemoApplication {
